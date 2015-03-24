@@ -3,3 +3,19 @@
   border-color: red;
   border-style: dotted;
 }
+.user-details {
+  padding-right: 0px;
+}
+.footer {
+  border-top: 1px solid;
+  border-top-color: #ededed;
+  text-align: center;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  color: #333;
+}
+.logo-text {
+  text-align: center;
+}
+/*# sourceMappingURL=/styles/less/custom.css.map */
